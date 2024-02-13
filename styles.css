@@ -1,0 +1,47 @@
+/* styles.css */
+
+/* Style the body tag */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  /* Style the header tag */
+  header {
+    background-color: #f0f0f0; /* Example color */
+  }
+  
+  /* Style the nav tag */
+  nav {
+    background-color: #ccc; /* Example color */
+  }
+  
+  /* Style the main tag */
+  main {
+    background-color: #fff; /* Example color */
+    font-size: 18px;
+  }
+  
+  /* Style the footer tag */
+  footer {
+    background-color: #f0f0f0; /* Example color */
+  }
+  
+  /* Style the li tag */
+  li {
+    display: inline-block;
+    width: 100px; /* Example width */
+  }
+  
+  /* Style the h1 tag */
+  h1 {
+    text-align: center;
+    font-family: Georgia, serif;
+    color: #333; /* Example color */
+  }
+  
+  /* Style the p tag */
+  p {
+    line-height: 1.5;
+  }
+  
